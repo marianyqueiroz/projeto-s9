@@ -27,4 +27,4 @@ Funcionários: adicionar campos que julgar necessários
 Observação: Popule nosso model de livros e funcionários com pelo menos 10 registros em cada.
 
 
-![Mulher lendo livros](file:///C:/Users/Bruna/Downloads/Book%20lover-bro.svg)
+![Uma mulher "codando"](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyR3G0NhrFxw97N9CGleNRdIG1WEAJDmg9WQ&usqp=CAU)
