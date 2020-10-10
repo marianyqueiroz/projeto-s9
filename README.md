@@ -1,6 +1,6 @@
 # Projeto | Semana 9 | {reprograma}
 
-##Exercícios
+## Exercícios
 
 Você foi contratada para fazer a implementação de um sistema de uma livraria no centro de Recife.
 
