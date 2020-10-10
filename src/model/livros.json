@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "título": "Le Petit Prince",
+        "autor": "Antoine de Saint-Exupéry",
+        "ano": 1843
+    },
+    {
+        "id": 2,
+        "título": "Garotas de vidro",
+        "autor": "Laurie Halse Anderson",
+        "ano": 2009
+    },
+    {
+        "id": 3,
+        "título": "História da Sexualidade",
+        "autor": " Michel Foucault",
+        "ano": 1976
+    },
+    {
+        "id": 4,
+        "título": "O Segundo Sexo",
+        "autor": "Simone de Beauvoir",
+        "ano": 1948
+    },
+    {
+        "id": 5,
+        "título": "O Mito da Beleza",
+        "autor": "Naomi Wolf",
+        "ano": 1991
+    },
+    {
+        "id": 6,
+        "título": "O Papel de Parede Amarelo",
+        "autor": "Charlotte Perkins Gilman",
+        "ano": 1892
+    },
+    {
+        "id": 7,
+        "título": "A Menina que Roubava Livros",
+        "autor": "Markus Zusak",
+        "ano": 2005
+    },
+    {
+        "id": 8,
+        "título": "Todo Dia",
+        "autor": "David Levithan",
+        "ano": 2012
+    },
+    {
+        "id": 9,
+        "título": "Outro dia",
+        "autor": "David Levithan",
+        "ano": 2015
+    },
+    {
+        "id": 10,
+        "título": "Algum dia",
+        "autor": "David Levithan",
+        "ano": 2019
+    }
+    ]
