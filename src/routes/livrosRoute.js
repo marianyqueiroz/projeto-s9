@@ -6,5 +6,6 @@ router.get("/", controller.getAll);
 router.get("/livros", controller.getAll);
 router.post("/", controller.postLivros);
 router.post("/livros", controller.postLivros);
+router.delete("/:id", controller.deleteLivro);
 
 module.exports = router;
