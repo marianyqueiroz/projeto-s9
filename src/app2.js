@@ -2,7 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const app2 = express();
 
-const funcionarios = require("./routes/funcionariosRoute.js");
+const funcionarios = require("./routes/funcionariosRoute")
 
 app2.use(bodyParser.json());
 

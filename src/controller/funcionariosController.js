@@ -34,8 +34,20 @@ const deleteFuncionario = (req, res) => {
     res.status(200).send(funcionarios);
 };
 
+const GetById = (req, res) => {
+    const id = req.params.id;
+    const idade = req. params.idade;
+
+    const idadeFiltrada = funcionarios.find((funcionarios) => funcionarios.id == idade);
+    console.log(idade)
+
+    res.status(200).send(idadeFiltrada);
+};
+
+
 module.exports = {
     getAllFuncionarios,
     postFuncionarios,
-    deleteFuncionario
+    deleteFuncionario,
+    GetById
 };

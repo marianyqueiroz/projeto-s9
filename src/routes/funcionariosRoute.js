@@ -7,5 +7,6 @@ router.get("/livros", controller.getAllFuncionarios);
 router.post("/", controller.postFuncionarios);
 router.post("/livros", controller.postFuncionarios);
 router.delete("/:id", controller.deleteFuncionario);
+router.get("/:id", controller.GetById);
 
 module.exports = router;
