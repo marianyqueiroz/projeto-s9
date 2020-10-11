@@ -34,8 +34,15 @@ const deleteLivro = (req, res) => {
     res.status(200).send(livros);
 };
 
+const getAllCategotia = (req, res) => {
+    const categoria = livros.map((livros) => livros.categoria);
+    console.log(categoria)
+    res.status(200).send(categoria);
+};
+
 module.exports = {
     getAll,
     postLivros,
-    deleteLivro
+    deleteLivro,
+    getAllCategotia
 };
