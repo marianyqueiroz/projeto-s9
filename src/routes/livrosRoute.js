@@ -3,6 +3,8 @@ const router = express.Router();
 const controller = require("../controller/livrosController");
 
 router.get("/", controller.getAll);
-router.get("/tarefas", controller.getAll);
+router.get("/livros", controller.getAll);
+router.post("/", controller.postLivros);
+router.post("/livros", controller.postLivros);
 
 module.exports = router;
